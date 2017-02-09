@@ -8,6 +8,10 @@
     <packaging>war</packaging>
 
     <name>Primefaces ShowCase - DataTable</name>
+    <description>
+        DataTable - Edit.
+        Data displayed on datatable can be edited at row or cell level.
+    </description>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
@@ -100,5 +104,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
